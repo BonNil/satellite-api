@@ -188,8 +188,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\include\satellite-api\satellite-api.config" />
+    <Content Include="App_Config\include\satellite-api\satellite-api.settings.config" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\stena.local.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
